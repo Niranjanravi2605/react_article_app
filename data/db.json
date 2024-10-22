@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Top 10 Places to Visit in India",
+      "datetime": "October 2, 2024, 10:00 AM",
+      "body": "India is a treasure trove of iconic travel destinations. Here are the top 10 must-visit places:\n\n1. Taj Mahal, Agra - A symbol of eternal love and one of the Seven Wonders of the World.\n\n2. Jaipur, Rajasthan - The Pink City, known for its royal palaces and forts.\n\n3. Kerala Backwaters - A serene network of lagoons, lakes, and canals.\n\n4. Varanasi, Uttar Pradesh - One of the oldest living cities, known for its ghats and spirituality.\n\n5. Leh-Ladakh - A paradise for adventure seekers, famous for its stark landscapes.\n\n6. Goa - Known for its pristine beaches and vibrant nightlife.\n\n7. Rann of Kutch, Gujarat - The mesmerizing white salt desert.\n\n8. Mysore Palace, Karnataka - A stunning example of Indo-Saracenic architecture.\n\n9. Andaman and Nicobar Islands - Tropical islands with crystal-clear waters and coral reefs.\n\n10. Udaipur, Rajasthan - The City of Lakes, known for its romantic ambiance."
+    },
+    {
+      "id": "2",
+      "title": "Top 10 Interesting Facts About India",
+      "datetime": "October 5, 2024, 3:15 PM",
+      "body": "India is a country full of surprises. Here are 10 interesting facts:\n\n1. Chess was invented in India - Known originally as Chaturanga.\n\n2. India has the world's second-largest population - With over 1.4 billion people.\n\n3. Zero was invented in India - The concept of zero originated in ancient India.\n\n4. India has the largest postal network - Over 1.5 lakh post offices in the country.\n\n5. The world's largest democracy - With over 900 million eligible voters.\n\n6. Home to the world's highest cricket ground - Located in Chail, Himachal Pradesh.\n\n7. India is the largest producer of milk - Leading the world in milk production.\n\n8. India has 22 officially recognized languages - A reflection of its cultural diversity.\n\n9. It’s illegal to fly above the Taj Mahal - Due to its status as a UNESCO World Heritage site.\n\n10. The Kumbh Mela is visible from space - The largest religious gathering on Earth."
+    },
+    {
+      "id": "3",
+      "title": "Top 10 Festivals in India You Must Experience",
+      "datetime": "October 8, 2024, 9:45 AM",
+      "body": "India’s festivals are a feast for the senses. Here are the top 10 you must experience:\n\n1. Diwali - The festival of lights, symbolizing the victory of good over evil.\n\n2. Holi - A vibrant festival of colors, celebrating the arrival of spring.\n\n3. Eid - A major Islamic festival marking the end of Ramadan with feasts and prayers.\n\n4. Navratri - A nine-day festival dedicated to the Goddess Durga, filled with dancing and fasting.\n\n5. Ganesh Chaturthi - Celebrating the birth of Lord Ganesha with grand processions.\n\n6. Durga Puja - Especially grand in West Bengal, celebrating the goddess Durga's triumph.\n\n7. Pongal - A harvest festival in Tamil Nadu, marking the end of winter.\n\n8. Baisakhi - A harvest festival in Punjab, celebrating the Sikh New Year.\n\n9. Onam - Kerala's harvest festival, with grand feasts and boat races.\n\n10. Christmas - Celebrated with joy and festivity across India's Christian communities."
+    },
+    {
+      "id": "4",
+      "title": "Top 10 Unique Dishes You Must Try in India",
+      "datetime": "October 12, 2024, 12:30 PM",
+      "body": "Indian cuisine is incredibly diverse. Here are 10 unique dishes you must try:\n\n1. Rogan Josh (Kashmir) - A flavorful lamb curry from the Kashmiri cuisine.\n\n2. Dhokla (Gujarat) - A savory steamed cake made from fermented rice and chickpea batter.\n\n3. Biryani (Hyderabad) - A fragrant rice dish layered with marinated meat and spices.\n\n4. Masala Dosa (South India) - A crispy rice crepe filled with spiced potatoes.\n\n5. Laal Maas (Rajasthan) - A fiery meat curry made with red chili paste.\n\n6. Chole Bhature (Punjab) - A hearty combination of spiced chickpeas and fried bread.\n\n7. Sarson da Saag with Makki di Roti (Punjab) - Mustard greens served with cornmeal flatbread.\n\n8. Mishti Doi (Bengal) - A sweetened, fermented yogurt that’s a Bengali favorite.\n\n9. Fish Curry (Goa) - Coconut-based curry made with fresh fish and local spices.\n\n10. Pani Puri (Street Food) - Hollow crispy puris filled with spiced water and tangy chutneys."
+    },
+    {
+      "id": "5",
+      "title": "Top 10 Historic Monuments in India",
+      "datetime": "October 14, 2024, 4:00 PM",
+      "body": "India’s rich history is reflected in its monuments. Here are the top 10 historic sites:\n\n1. Taj Mahal, Agra - A stunning symbol of love and Mughal architecture.\n\n2. Red Fort, Delhi - A magnificent fort, representing India’s Mughal past.\n\n3. Qutub Minar, Delhi - The tallest brick minaret in the world, showcasing Indo-Islamic architecture.\n\n4. Hampi, Karnataka - Ruins of a grand medieval city from the Vijayanagara Empire.\n\n5. Ajanta and Ellora Caves, Maharashtra - Ancient rock-cut caves with intricate Buddhist, Jain, and Hindu carvings.\n\n6. Victoria Memorial, Kolkata - A symbol of British rule, surrounded by lush gardens.\n\n7. Gateway of India, Mumbai - A colonial-era monument overlooking the Arabian Sea.\n\n8. Khajuraho Temples, Madhya Pradesh - Famous for their stunning erotic sculptures.\n\n9. Sanchi Stupa, Madhya Pradesh - One of the oldest stone structures in India, dating back to the Mauryan empire.\n\n10. Amber Fort, Jaipur - A beautiful hilltop fort offering panoramic views of the city."
+    }
+  ]
+}
