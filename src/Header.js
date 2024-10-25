@@ -1,11 +1,12 @@
-import React, { useContext } from 'react';
+/*import React, { useContext } from 'react';
 
-import DataContext from './context/DataContext';
+import DataContext from './context/DataContext';*/
+import React from "react";
 
 
 const Header = ({ title }) => {
-  /*const { width } = useWindowSize();  */
-  const {width} = useContext(DataContext)
+  /* const { width } = useWindowSize();  */
+  /* const {width} = useContext(DataContext) */
   
 
   return (
